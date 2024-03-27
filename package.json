@@ -1,0 +1,33 @@
+{
+  "name": "createfolders",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "createfolders.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suseinose/createfolders"
+  },
+  "website": "https://github.com/suseinose/createfolders.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "suseinose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suseinose/createfolders/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/suseinose/createfolders#readme",
+  "dependencies": {
+    "simplestaskstimer": "1.0.2"
+  }
+}
